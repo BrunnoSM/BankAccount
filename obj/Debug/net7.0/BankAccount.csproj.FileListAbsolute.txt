@@ -1,0 +1,14 @@
+C:\dev\Udemy\CSharp\BankAccount\bin\Debug\net7.0\BankAccount.exe
+C:\dev\Udemy\CSharp\BankAccount\bin\Debug\net7.0\BankAccount.deps.json
+C:\dev\Udemy\CSharp\BankAccount\bin\Debug\net7.0\BankAccount.runtimeconfig.json
+C:\dev\Udemy\CSharp\BankAccount\bin\Debug\net7.0\BankAccount.dll
+C:\dev\Udemy\CSharp\BankAccount\bin\Debug\net7.0\BankAccount.pdb
+C:\dev\Udemy\CSharp\BankAccount\obj\Debug\net7.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp\BankAccount\obj\Debug\net7.0\BankAccount.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp\BankAccount\obj\Debug\net7.0\BankAccount.AssemblyInfo.cs
+C:\dev\Udemy\CSharp\BankAccount\obj\Debug\net7.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp\BankAccount\obj\Debug\net7.0\BankAccount.dll
+C:\dev\Udemy\CSharp\BankAccount\obj\Debug\net7.0\refint\BankAccount.dll
+C:\dev\Udemy\CSharp\BankAccount\obj\Debug\net7.0\BankAccount.pdb
+C:\dev\Udemy\CSharp\BankAccount\obj\Debug\net7.0\BankAccount.genruntimeconfig.cache
+C:\dev\Udemy\CSharp\BankAccount\obj\Debug\net7.0\ref\BankAccount.dll
