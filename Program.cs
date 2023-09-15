@@ -15,9 +15,9 @@ namespace BankAccount
             Console.Write("Entre o titular da conta: ");
             string accountHolder = Console.ReadLine()!;
             Console.Write("Haverá depósito inicial (s/n)? ");
-            char Deposit = char.Parse(Console.ReadLine()!.ToUpper());
+            char deposit = char.Parse(Console.ReadLine()!.ToUpper());
 
-            if (Deposit == 'S')
+            if (deposit == 'S')
             {
                 Console.Write("Entre o valor de depósito inicial: ");
                 depositAmount = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
